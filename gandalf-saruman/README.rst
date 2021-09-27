@@ -1,1 +1,0 @@
-### Neural network solves classification problem of two classes: gandalf or saruman? =)
